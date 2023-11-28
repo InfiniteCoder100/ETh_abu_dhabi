@@ -1,7 +1,7 @@
 # LSD 💊
 
 LSD is a liquid staking and leverage staking based yield generating vault. You can deposit your matic and receive LSD tokens which will appreciate in value w.r.t. matic over time 📈 LSD internally uses [Stader](https://www.staderlabs.com/), [Aave](https://aave.com/) & [Balancer](https://balancer.fi/) as well as the whole project is build using [scaffold-eth 2](https://github.com/scaffold-eth/se-2) 🏗️  
-For more details here is a short video explanation: [Introducing LSD 💊](https://youtu.be/OZpSNxjCBVY)  
+For more details here is a short video explanation: [Introducing LSD 💊](https://youtu.be/OZpSNxjCBV)
 
 ## Contracts
 
@@ -47,15 +47,13 @@ yarn start
 
 ### Desktop
 
-![Desktop Deposit On Home Page](screenshots/ss1.png)
----
+## ![Desktop Deposit On Home Page](screenshots/ss1.png)
 
-![Desktop Redeem On Home Page](screenshots/ss2.png)
----
+## ![Desktop Redeem On Home Page](screenshots/ss2.png)
 
 ![Desktop Vault Stats Page](screenshots/ss3.png)
 
 ### Mobile Devices
 
 | ![Mobile Deposit On Home Page](screenshots/ss4.png) | ![Mobile Redeem On Home Page](screenshots/ss5.png) | ![Mobile Vault Stats Page 1](screenshots/ss6.png) | ![Mobile Vault Stats Page 2](screenshots/ss7.png) |
-|---|---|---|---|
+| --------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
